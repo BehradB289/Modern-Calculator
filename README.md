@@ -10,7 +10,7 @@
 [![Download Calculator](https://img.shields.io/badge/Download-Calculator_v2.0.0_(EXE)-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BehradB289/Modern-Calculator/releases/latest/download/Calculator-Setup-v2.0.0.exe)
 [![Download Calculator](https://img.shields.io/badge/Download-Calculator_v3.0.0_(EXE)-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BehradB289/Modern-Calculator/releases/latest/download/Calculator-Setup-v3.0.0.exe)
 [![Download Calculator](https://img.shields.io/badge/Download-Calculator_v4.0.0_(EXE)-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BehradB289/Modern-Calculator/releases/latest/download/Calculator-Setup-v4.0.0.exe)
-[![Download Calculator](https://img.shields.io/badge/Download-Calculator_v4.0.0_(EXE)-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BehradB289/Modern-Calculator/releases/latest/download/Calculator-Setup-v4.0.0.exe)
+[![Download Calculator](https://img.shields.io/badge/DownloadModern Calculator yamada (Windows x64)-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BehradB289/Modern-Calculator/releases/latest/download/Calculator-Setup-yamada.exe)
 
 
 
